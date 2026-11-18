@@ -1,0 +1,25 @@
+commit 13489f155f599a4735af54505644c942d43c806b
+Author:     Aditya Mendhe <adityapokemon45@gmail.com>
+AuthorDate: 2026-11-18 12:14:01 +0530
+Commit:     Aditya Mendhe <adityapokemon45@gmail.com>
+CommitDate: 2026-11-18 12:14:01 +0530
+
+    Complete hash table output and submission documents
+
+ Trace_Match_Report.md          | 148 +++++++++++++++++++++++++++++++++++++++++
+ screenshots/program_output.png | Bin 0 -> 154958 bytes
+ 2 files changed, 148 insertions(+)
+
+commit 5f83b4d56f59ab429124a84686dfc767a40c22ee
+Author:     Aditya Mendhe <adityapokemon45@gmail.com>
+AuthorDate: 2026-11-18 12:13:33 +0530
+Commit:     Aditya Mendhe <adityapokemon45@gmail.com>
+CommitDate: 2026-11-18 12:13:33 +0530
+
+    Initial commit: Hash Table implementation and project setup
+
+ .gitignore        |   2 +
+ IA3_Q2.cpp        | 140 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ README.md         |  64 +++++++++++++++++++++++++
+ debugging_log.txt |   9 ++++
+ 4 files changed, 215 insertions(+)
